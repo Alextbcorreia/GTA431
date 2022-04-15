@@ -1,5 +1,4 @@
-# Projet de fin de session GTA431 - Équipe E
-
+# Projet de fin de session GTA431
 ```bash
 Version Python: 3.10
 ```
