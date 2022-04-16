@@ -10,6 +10,7 @@ Version Python: 3.10
 - matplotlib.pyplot
 - statistics
 - datetime
+- numpy
 ```
 
 ## Équipe E
